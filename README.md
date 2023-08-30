@@ -90,3 +90,33 @@ For any questions or feedback, feel free to [open an issue](https://github.com/y
 - Thanks to [Library Name](https://example.com/library) for their awesome animation library.
 - Hat tip to [Contributor Name](https://github.com/contributor) for their valuable input.
 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Calculator
+
+We've included a calculator feature to help you perform quick calculations related to the content on our landing page. Whether it's currency conversions, size adjustments, or any other relevant calculations, our calculator has you covered.
+
+You can access the calculator by visiting the [Calculator Page](https://www.example.com/calculator) on our website.
+
+### Supported Operations
+
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+
+### Usage Example
+
+Let's say you want to convert currency. Here's how you can do it using our calculator:
+
+1. Visit the [Calculator Page](https://www.example.com/calculator).
+2. Enter the amount you want to convert.
+3. Select the operation for the currency conversion (e.g., multiplication for currency exchange rate).
+4. Input the conversion rate.
+5. Click the "Calculate" button to get the result.
+
+Feel free to use our calculator to perform various calculations that enhance your experience with our landing page content. If you have suggestions for additional calculator features, don't hesitate to let us know!
+
+Please note that this calculator is intended for basic calculations and may not cover all possible scenarios. Always verify results if precision is crucial.
+
+
